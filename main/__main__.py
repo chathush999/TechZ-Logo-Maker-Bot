@@ -79,17 +79,6 @@ async def logo(bot, message):
       pass
     return await message.reply_text("`❌ Something Went Wrong...`\n\nReport This Error In @devid_suppor_gruotp")
 
-# Callbacks
-@app.on_callback_query(filters.regex("start_menu"))
-async def start_menu(_,query):
-  await query.answer()
-  await query.message.edit(START,reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="Help", callback_data="help_menu"),InlineKeyboardButton(text="Repo", url="https://github.com/TechShreyash/TechZ-Logo-Maker-Bot")]]))
-
-@app.on_callback_query(filters.regex("help_menu"))
-async def help_menu(_,query):
-  await query.answer()
-  await query.message.edit(HELP,reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="Back", callback_data="start_menu")]]))
-
 @app.on_callback_query(filters.regex("flogo"))
 async def logo_doc(_,query):
   await query.answer()
