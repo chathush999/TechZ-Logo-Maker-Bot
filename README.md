@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Tellybots/Uploader-Bot"><img src="https://telegra.ph//file/2c3d3fb1551f447a3e9d3.jpg"></a></p> 
+<p align="center"><a href="https://github.com/Tellybots/Uploader-Bot"><img src="https://telegra.ph//file/2600963ad52778d78c2f2.jpg.jpg"></a></p> 
 
 <h1 align="center"><b>Logo-Maker-Bot</b></h1>
 <h4 align="center"><b>A Telegram Bot To Create Cool Logos, Powered By TechZBots API.</b></h4>
@@ -27,5 +27,3 @@
 ### 📤 Deploy
 <p><a href="https://heroku.com/deploy?template=https://github.com/TechShreyash/TechZ-Logo-Maker-Bot.git"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
-### 👤 Contact Me
-[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/TechZBots)[![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/TechZBots_Support)
