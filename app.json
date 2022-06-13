@@ -7,7 +7,7 @@
         "logo",
         "bot"
     ],
-    "repository": "https://github.com/chathush999/c-logo-maker",
+    "repository": "https://github.com/chathush999/c-logo-maker-bot",
     "website": "https://t.me/devid_update",
     "success_url": "https://t.me/Devid999_bot",
     "env": {
